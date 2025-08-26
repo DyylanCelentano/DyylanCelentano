@@ -1,14 +1,14 @@
 # Dylan Celentano
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=0366d6&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Estudiante+de+Ingeniería;Apasionado+por+la+tecnología" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=0366d6&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Estudiante+de+Ingeniería;Calidad+Compromiso+Pasión" alt="Typing animation" />
 </div>
 
 ---
 
 ## Sobre mi
 
-Soy estudiante de **Ingeniería en Informática** en la Universidad de Buenos Aires y Desarrollador Full Stack con experiencia en proyectos reales. Me gusrta muchisimo innovar y en crear soluciones eficientes, pensando desde el diseño de interfaces hasta la implementación de APIs robustas.
+Soy estudiante de **Ingeniería en Informática** en la Universidad de Buenos Aires y Desarrollador Full Stack con experiencia en proyectos reales. Me gusta innovar y crear soluciones eficientes, pensando desde el diseño de interfaces hasta la implementación de APIs robustas.
 
 **Ubicación:** Buenos Aires, Argentina  
 **Estado:** Disponible para oportunidades laborales  
@@ -16,26 +16,44 @@ Soy estudiante de **Ingeniería en Informática** en la Universidad de Buenos Ai
 
 ---
 
-## Stack tecnológico
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Frontend**
-- React, JavaScript ES6+, HTML5, CSS3
-- Tailwind CSS, Svelte, Angular
-- Responsive design y UX/UI
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-**Backend**
-- Node.js, Express.js
-- Python, FastAPI
-- API REST
+### Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Bases de datos**
-- MongoDB, MySQL, SQLite, PostgreSQL, SQL Server
-- Modelado de datos y optimización
-
-**Herramientas y deployment**
-- Git, VS Code, Vite
-- Netlify, Railway
-- Control de versiones colaborativo
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
@@ -63,33 +81,53 @@ Herramienta para crear roadmaps personalizados de aprendizaje en tecnología, co
 
 ## Formación
 
-**Educación universitaria**
-- Ingeniería en Informática - Universidad de Buenos Aires (Junio 2023 - presente)
-- Técnico en Informática Profesional - Instituto Técnico María Reina (2017-2023)
+<details>
+<summary><b>Educación</b></summary>
 
-**Formación complementaria**
-- Desarrollo Web Full Stack - Fundación Banco Nación | EducaciónIT | Fundación Pescar (2025)
-- Múltiples certificaciones en React, Node.js, MongoDB, JavaScript avanzado y más
+- **Ingeniería en Informática** - Universidad de Buenos Aires *(2023 - En curso)*
+- **Desarrollo Web Full Stack** - Fundación Banco Nación | EducaciónIT *(2025)*
+- **Técnico en Informática Profesional** - Instituto Técnico María Reina *(2017-2023)*
+
+</details>
+
+<details>
+<summary><b>Certificaciones Profesionales (12+)</b></summary>
+
+**Desarrollo Web & Frontend:**
+- Desarrollador React.JS - EducaciónIT
+- JavaScript Desarrollador Avanzado - EducaciónIT
+- Maquetador Web Avanzado - EducaciónIT
+- Desarrollo Web HTML - EducaciónIT
+- JavaScript Desde Cero - EducaciónIT
+- Angular - EducaciónIT
+
+**Backend & Bases de Datos:**
+- Node.js Backend - EducaciónIT
+- Introducción a MongoDB - EducaciónIT
+- Visual Basic .NET Avanzado - UTN
+
+**Herramientas & Metodologías:**
+- Git: Desarrollo Colaborativo - EducaciónIT
+- Programación Orientada a Objetos con IA - EducaciónIT
+
+</details>
 
 ---
 
-## Estadísticas de GitHub
+## Conectemos
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DyylanCelentano&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyylanCelentano&layout=compact&langs_count=6&theme=default&hide_border=true"/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2B4F81?style=for-the-badge&logo=google-chrome&logoColor=white)](https://celentano.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dylan-celentano)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dyylancelentano@gmail.com)
+
+---
+
+<div align="center">
+  <i>Siempre atento a nuevos desafíos y oportunidades de colaboración. ¡No dudes en contactarme!</i>
 </div>
 
----
-
-## Contacto
-
-**Portfolio:** [dylan-celentano-portfolio.netlify.app](https://celentano.netlify.app/)  
-**LinkedIn:** [dylan-celentano](https://linkedin.com/in/dylan-celentano)  
-**Email:** dyylancelentano@gmail.com
-
----
-
 <div align="center">
-  <i>Siempre abierto a nuevos desafíos y oportunidades de colaboración</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2B4F81&height=100&section=footer&text=Gracias%20por%20visitar%20mi%20perfil&fontSize=24&fontColor=ffffff&animation=twinkling" />
 </div>
